@@ -20,7 +20,7 @@
   padding-bottom: 20px;
   color: white;
   outline-color: white;
-  position: relative; left: 0px;
+  position: relative; bottom: 1.2rem; left: 10rem;
   font-size: 20px;
 }
 .writing{
@@ -28,7 +28,7 @@
   padding-bottom: 20px;
   color: white;
   outline-color: white;
-  position: relative; top: 20px;
+  position: relative; top: 132px; left: -21.6rem;
   font-size: 20px;
 }
 .email{
@@ -36,7 +36,7 @@
   padding-bottom: 20px;
   color: white;
   outline-color: white;
-  position: relative; top: 10px;
+  position: relative; top: 60px; left: -5.8rem;
   font-size: 20px;
 }
 .message{
@@ -45,14 +45,14 @@
   color: white;
   height: 200px;
 outline-color: white;
-  position: relative; top: 30px;
+  position: relative; top: 10rem; left: -20rem;
   font-size: 20px;
 }
 .btnSubmit{
   background-color: #23232e;
   padding-bottom: 20px;
   color: white;
-  position: relative; top: 40px;
+  position: relative; top: 13rem; left: -52.8rem;
   outline-color: white;
   font-size: 20px;
 }
