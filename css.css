@@ -199,7 +199,7 @@ img {vertical-align: middle;}
 /* Slideshow container */
 .slideshow-container {
   max-width: 1400px;
-  position: relative;
+  position: relative; top: 3rem;
   margin: auto;
 }
 
