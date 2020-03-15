@@ -1,0 +1,65 @@
+
+.contentform{
+    text-decoration: none;
+    font-size: 20px;
+    position: relative;
+    text-align: center;
+    background: #23232e;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-left: 650px;
+    width: 25%;
+    height: auto;
+    font-family: Verdana;
+    padding-top: 10px;
+
+  }
+.name{
+  background-color: #23232e;
+  padding-bottom: 20px;
+  color: white;
+  outline-color: white;
+  position: relative; left: 0px;
+  font-size: 20px;
+}
+.writing{
+  background-color: #23232e;
+  padding-bottom: 20px;
+  color: white;
+  outline-color: white;
+  position: relative; top: 20px;
+  font-size: 20px;
+}
+.email{
+  background-color: #23232e;
+  padding-bottom: 20px;
+  color: white;
+  outline-color: white;
+  position: relative; top: 10px;
+  font-size: 20px;
+}
+.message{
+  background-color: #23232e;
+  padding-bottom: 20px;
+  color: white;
+  height: 200px;
+outline-color: white;
+  position: relative; top: 30px;
+  font-size: 20px;
+}
+.btnSubmit{
+  background-color: #23232e;
+  padding-bottom: 20px;
+  color: white;
+  position: relative; top: 40px;
+  outline-color: white;
+  font-size: 20px;
+}
+.p-contact{
+  margin-left: 650px;
+  color: white;
+  font-family: Verdana;
+  font-size: 30px;
+  text-decoration: overline underline;
+}
